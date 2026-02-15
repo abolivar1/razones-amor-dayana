@@ -1,0 +1,166 @@
+{
+  "razones": [
+    {
+      "id": 1,
+      "texto": "Me encanta tu mirada",
+      "fecha": "2026-02-15",
+      "categoria": "fisico"
+    },
+    {
+      "id": 2,
+      "texto": "Me encanta tu sonrisa",
+      "fecha": "2026-02-15",
+      "categoria": "fisico"
+    },
+    {
+      "id": 3,
+      "texto": "Me encantan tus pecas",
+      "fecha": "2026-02-15",
+      "categoria": "fisico"
+    },
+    {
+      "id": 4,
+      "texto": "Tú me amas a mí",
+      "fecha": "2026-02-15",
+      "categoria": "sentimientos"
+    },
+    {
+      "id": 5,
+      "texto": "Eres la chica más graciosa que conozco",
+      "fecha": "2026-02-15",
+      "categoria": "personalidad"
+    },
+    {
+      "id": 6,
+      "texto": "Me siento muy cómodo a tu lado",
+      "fecha": "2026-02-15",
+      "categoria": "sentimientos"
+    },
+    {
+      "id": 7,
+      "texto": "Eres muy inteligente",
+      "fecha": "2026-02-15",
+      "categoria": "personalidad"
+    },
+    {
+      "id": 8,
+      "texto": "Tus cartas me conmueven y enamoran",
+      "fecha": "2026-02-15",
+      "categoria": "detalles"
+    },
+    {
+      "id": 9,
+      "texto": "Te fijas en los pequeños detalles",
+      "fecha": "2026-02-15",
+      "categoria": "personalidad"
+    },
+    {
+      "id": 10,
+      "texto": "Tienes metas y trabajas por cumplirlas",
+      "fecha": "2026-02-15",
+      "categoria": "personalidad"
+    },
+    {
+      "id": 11,
+      "texto": "Pensamos muy parecido",
+      "fecha": "2026-02-15",
+      "categoria": "conexion"
+    },
+    {
+      "id": 12,
+      "texto": "Tus gustos de literatura exótica me parecen muy interesantes y divertidos",
+      "fecha": "2026-02-15",
+      "categoria": "intereses"
+    },
+    {
+      "id": 13,
+      "texto": "Me encanta la pasión con la que me besas",
+      "fecha": "2026-02-15",
+      "categoria": "intimidad"
+    },
+    {
+      "id": 14,
+      "texto": "Haces que mis días dejen de ser monótonos",
+      "fecha": "2026-02-15",
+      "categoria": "felicidad"
+    },
+    {
+      "id": 15,
+      "texto": "Me motivas a dar lo mejor de mí",
+      "fecha": "2026-02-15",
+      "categoria": "crecimiento"
+    },
+    {
+      "id": 16,
+      "texto": "Eres clara y sincera con tus sentimientos",
+      "fecha": "2026-02-15",
+      "categoria": "confianza"
+    },
+    {
+      "id": 17,
+      "texto": "Me escuchas y me entiendes",
+      "fecha": "2026-02-15",
+      "categoria": "conexion"
+    },
+    {
+      "id": 18,
+      "texto": "Podemos hablar de cualquier cosa (enserio cualquier cosa jaja, a veces no sé si no te cansan mis disparates)",
+      "fecha": "2026-02-15",
+      "categoria": "conexion"
+    },
+    {
+      "id": 19,
+      "texto": "La atracción sexual entre ambos es exquisita",
+      "fecha": "2026-02-15",
+      "categoria": "intimidad"
+    },
+    {
+      "id": 20,
+      "texto": "Me encanta cómo gimes, suspiras y dices mi nombre cuando te toco",
+      "fecha": "2026-02-15",
+      "categoria": "intimidad"
+    },
+    {
+      "id": 21,
+      "texto": "Estás abierta a experimentar cosas muy deliciosas 😈",
+      "fecha": "2026-02-15",
+      "categoria": "intimidad"
+    },
+    {
+      "id": 22,
+      "texto": "Me fascina tu imaginación y lo creativa que eres",
+      "fecha": "2026-02-15",
+      "categoria": "personalidad"
+    },
+    {
+      "id": 23,
+      "texto": "Tus sueños locos me demuestran lo mucho que piensas en mí",
+      "fecha": "2026-02-15",
+      "categoria": "sentimientos"
+    },
+    {
+      "id": 24,
+      "texto": "Nunca me has dado la oportunidad de dudar de tu amor por mí",
+      "fecha": "2026-02-15",
+      "categoria": "confianza"
+    },
+    {
+      "id": 25,
+      "texto": "Pues por qué sería un tonto si no te amara y ya sabes que tonto no soy",
+      "fecha": "2026-02-15",
+      "categoria": "humor"
+    },
+    {
+      "id": 26,
+      "texto": "Te ríes de mis chistes (que no son malos por cierto)",
+      "fecha": "2026-02-15",
+      "categoria": "humor"
+    },
+    {
+      "id": 27,
+      "texto": "Cualquier día es un buen día si recibo tu mensaje de buenos días",
+      "fecha": "2026-02-15",
+      "categoria": "detalles"
+    }
+  ]
+}

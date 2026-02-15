@@ -1,0 +1,103 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #FADADD 0%, #CDB4DB 0%);
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: #FFFAF7;
+    border-radius: 20px;
+    padding: 2rem;
+    max-width: 600px;
+    width: 90%;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+}
+
+.tarjeta {
+    background: #F279D4;
+    border-radius: 15px;
+    padding: 2rem;
+    margin: 2rem 0;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid #e9ecef;
+}
+
+.texto-razon {
+    font-size: 1.4rem;
+    color: #FFFFFF;
+	font-weight: bold;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.btn {
+    background: #FF6F91;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 50px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+    background: #764ba2;
+}
+
+.controles {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.meta-razon {
+  color: #6B7280;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+h2{
+	justify-content: center;
+	text-align: center;
+}
+
+.contenido-privado {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+}
+
+.contenido-privado.visible {
+  max-height: 200px; /* ajusta según el tamaño esperado */
+}
+
+.aviso {
+  font-weight: bold;
+  color: #e63946;
+  cursor: pointer;
+  font-size: 2em;
+  text-align: center;
+  margin: 30px 0; 
+  animation: pulse 1.5s infinite;
+}
+
+
+
+/* Animación tipo pulso */
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.1); opacity: 0.8; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+
