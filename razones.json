@@ -162,11 +162,18 @@
       "fecha": "2026-02-15",
       "categoria": "detalles"
     },
-{
+    {
       "id": 28,
       "texto": "Cada que veo algo lindo me acuerdo de ti",
       "fecha": "2026-02-15",
       "categoria": "detalles"
+    },
+    {
+      "id": 29,
+      "texto": "Tu cuerpo es como una nebulos y tus pecas son las estrellas que se forman con el material y le dan luz y vida a mi existencia",
+      "fecha": "2026-02-17",
+      "categoria": "sentimientos"
     }
   ]
+
 }
